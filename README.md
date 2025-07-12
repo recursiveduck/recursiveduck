@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bryan
 
-🎯 Transitioning into cybersecurity after 25+ years in law enforcement, legal investtigations, and military intelligence (CEWI).   
+🎯 Transitioning into cybersecurity after 25+ years in law enforcement, legal investigations, and military intelligence (CEWI).   
 💡 Real-world experience in major crimes investigations, covert technical surveillance, legal processes, high-profile court security and high-stakes decision-making.  
 🔧 My roots in computers and technology began in the 1980s. I've built databases, worked with electronics, and understand how systems *actually* work.  
 📚 Currently completing a cybersecurity degree and documenting my projects here.
