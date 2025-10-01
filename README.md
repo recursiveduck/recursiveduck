@@ -7,7 +7,7 @@
 
 ## 🔐 Projects in Progress
 - Learning how to make AI an efficient study buddy using DSPy and coding framewarks to write efficient prompts and validate responses.
-- Large scale Oracle database project tracking individual entry, participation, and program outcomes.
+- Database project tracking individual entry, participation, and program outcomes.
 
 📬 Let's connect if you're building cyber teams and tools with integrity, purpose, and people in mind.
 
