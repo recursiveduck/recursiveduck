@@ -22,7 +22,7 @@
 ## Representative Work
 - **Operational_Reporting_From_TSQL** – Report layer with R and Quarto. Public-safe case study.
 - **SQL_Data_Modeling_and_Query_Set** – T-SQL query set. Standardized outputs.
-- **AI_Study_Buddy** – Prompts and patterns that reduced iteration time.
+- **AI_Prompt_Engineering** – Prompts and patterns that reduced iteration time.
 
 ## Learning and Applying
 - Probability and statistics: CIs, run charts, simple forecasts.
