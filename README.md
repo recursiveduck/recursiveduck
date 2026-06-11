@@ -1,49 +1,64 @@
-# 👋 Hi, I'm Bryan
+# Hi, I'm Bryan Cox
 
-🎯 Transitioning into cybersecurity after 25+ years in law enforcement, legal investigations, and military intelligence (CEWI).   
-💡 Real-world experience in major crimes investigations, covert technical surveillance, legal processes, high-profile court security and high-stakes decision-making.  
-🔧 My roots in computers and technology began in the 1980s. I've built databases, worked with electronics, and understand how systems *actually* work.  
-📚 Currently completing a cybersecurity degree and documenting my projects here.
+I am a public safety and operations leader transitioning into cybersecurity, GRC, and data analytics.
 
-![T-SQL](https://img.shields.io/badge/Language-T--SQL-lightgrey)
-[![R](https://img.shields.io/badge/R-Programming-blue?logo=r&logoColor=white)](https://www.r-project.org/)
-[![Quarto](https://img.shields.io/badge/Quarto-Docs-informational?logo=quarto&logoColor=white)](https://quarto.org/)
-![Learning in Public](https://img.shields.io/badge/Learning-In%20Public-orange)
-![AI Assisted](https://img.shields.io/badge/AI-Assisted-brightgreen)
+My work focuses on practical systems under pressure: reporting pipelines, risk documentation, corrective action tracking, physical security, cyber-physical systems, and clear decision support for leaders.
 
+I use GitHub to document public-safe versions of real work patterns without exposing confidential data, protected information, internal schemas, or operational details.
 
-## Quick Tour
-- I build clean data pipes and clear reports.
-- I use T-SQL, R, Quarto, and Excel. I keep logic in SQL.
-- I apply probability, statistics, and systems thinking.
-- I use AI to learn fast and write better docs. I validate by hand.
-- Ask me about: reproducible reporting, tidy exports, one-pager layouts.
+## Focus Areas
+
+- Cybersecurity foundations: risk, controls, documentation, vulnerability assessment, and security program support
+- GRC and assurance: risk registers, control mapping, POA&M tracking, evidence, policy alignment, and repeatable review processes
+- Data and reporting: SQL Server, T-SQL, CSV workflows, R, Quarto, Excel, and reproducible reporting
+- Cyber-physical security: cameras, access control, facility systems, field observations, and operational resilience
+- Training and communication: supervisor tools, one-page briefs, tabletop exercises, and executive-ready summaries
 
 ## Representative Work
-- **Operational_Reporting_From_TSQL** – Report layer with R and Quarto. Public-safe case study.
-- **SQL_Data_Modeling_and_Query_Set** – T-SQL query set. Standardized outputs.
-- **AI_Prompt_Engineering** – Prompts and patterns that reduced iteration time.
 
-## Learning and Applying
-- Probability and statistics: CIs, run charts, simple forecasts.
-- Systems thinking: feedback loops, leverage points, delays.
-- Data practice: tidy exports, parameterized windows, clear definitions.
+### Operational Reporting from T-SQL
+Public-safe case study showing how raw operational data can be converted into repeatable reports using T-SQL, CSV exports, R, Quarto, and Excel.
 
-## Invite
-If you build teams that value clear methods and steady improvement, let’s talk.
+Focus: reproducibility, auditability, data definitions, reporting cadence, and executive decision support.
 
+### SQL Data Modeling and Query Set
+A focused SQL project built around clean outputs, consistent date logic, standardized fields, and defensible reporting.
 
-<!--
-**recursiveduck/recursiveduck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Focus: data quality, explainable logic, repeatable queries, and governance-friendly documentation.
 
-Here are some ideas to get you started:
+### AI Prompt Engineering
+A learning-in-public repository for using AI as a study partner, documentation assistant, and technical review aid.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focus: human validation, better learning loops, clearer documentation, and responsible AI-assisted workflows.
+
+## Current Direction
+
+I am building toward cybersecurity roles where operations experience matters:
+
+- GRC analyst
+- Risk and compliance analyst
+- Security program support
+- Cybersecurity project or program coordination
+- Cyber-physical security and resilience
+- Security operations support with strong documentation and reporting
+
+## How I Work
+
+- Keep sensitive data private.
+- Generalize examples before publishing.
+- Document assumptions and definitions.
+- Use AI as a force multiplier, not a replacement for judgment.
+- Build tools that real supervisors, managers, auditors, and decision-makers can actually use.
+
+## Certifications and Education
+
+- CompTIA ITF+
+- CompTIA A+
+- CompTIA Network+
+- ITIL 4 Foundation
+- FBI National Academy Associates Certified Leader
+- B.S. Cybersecurity and Information Assurance, Western Governors University — in progress
+
+## Contact
+
+LinkedIn: [Bryan Cox](https://www.linkedin.com/in/recursiveduck/)
