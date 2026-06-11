@@ -56,7 +56,6 @@ I am building toward cybersecurity roles where operations experience matters:
 - CompTIA A+
 - CompTIA Network+
 - ITIL 4 Foundation
-- FBI National Academy Associates Certified Leader
 - B.S. Cybersecurity and Information Assurance, Western Governors University — in progress
 
 ## Contact
