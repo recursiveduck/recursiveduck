@@ -26,11 +26,6 @@ A focused SQL project built around clean outputs, consistent date logic, standar
 
 Focus: data quality, explainable logic, repeatable queries, and governance-friendly documentation.
 
-### AI Prompt Engineering
-A learning-in-public repository for using AI as a study partner, documentation assistant, and technical review aid.
-
-Focus: human validation, better learning loops, clearer documentation, and responsible AI-assisted workflows.
-
 ## Current Direction
 
 I am building toward cybersecurity roles where operations experience matters:
